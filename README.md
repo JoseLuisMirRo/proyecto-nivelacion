@@ -1,6 +1,6 @@
-# Proyecto integrador · Desarrollo Móvil Integral
+# Proyecto de nivelación · Desarrollo Móvil Integral
 
-Monorepo del equipo (10.º A, UTEZ · DATID, Sept–Dic 2026).
+Repositorio de la nivelación (10.º A, UTEZ · DATID, Sept–Dic 2026).
 
 ## Equipo y roles
 
