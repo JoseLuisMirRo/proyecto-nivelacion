@@ -24,7 +24,7 @@ Claude Sonnet 5.5 usado a través de **Claude Code** (modo agente, en mi computa
 - Se ajustaron los imports al paquete `integradora_mobile` del monorepo.
 - Se **quitó** de la prueba la comparación con capturas (`matchesGoldenFile`) y la ruta absoluta a las fuentes de mi computadora, porque hacían fallar `flutter test` en otras máquinas. Las capturas quedan como evidencia en `docs/evidencia-t3/`.
 - Se borró la prueba de ejemplo del contador que trae `flutter create`.
-- Lo que revisé o cambié yo: COMPLETAR.
+- Lo que revisé o cambié yo: solamente cambié acentos en palabras que no tenían correcta ortografía.
 
 ## Cómo lo probé
 
