@@ -1,0 +1,22 @@
+# Sistema y editores
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/launch.json
+
+# Flutter / Dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/android/local.properties
+**/android/.gradle/
+**/ios/Pods/
+*.iml
+
+# Secretos
+.env
+*.jks
+*.keystore
+google-services.json
+GoogleService-Info.plist
